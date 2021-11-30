@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>RED VELVET CAKE RECIPE</h1>
+    <img src='../images/red velvet.jpeg' alt='A diagram of a red velvet cake' style="width:600px;height:600px;">
+    <p><h3>A Red Velvet Cake is instantly recognizable with its bright red color offset by a white Cream Cheese Frosting. There are many theories as to its origin. Some say it originated in the South, others say it originated in the North. All we really know for sure is that it has been a favorite for decades.</h3></p>
+    <div>
+        <h4>Ingredients</h4>
+        <ul>
+            <li>2cups plus 2 tablespoons (250 grams) cake flour</li>
+            <li>1/2 teaspoon salt</li>
+            <li>2 tablespoons (15 grams) regular unsweetened or Dutch-processed unsweetened cocoa powder</li>
+            <li>1/2 cup (113 grams) unsalted butter, at room temperature</li>
+            <li>1 1/2 cups (300 grams) granulated white sugar</li>
+            <li>1 teaspoon (4 grams) pure vanilla extract</li>
+            <li>2 large eggs</li>
+            <li> 1 cup (240 ml) buttermilk, at room temperature </li>
+            <li>2 tablespoons (22 grams) liquid red food coloring (I use McCormick's brand)</li>
+            <li>1 teaspoon (4 grams) white distilled vinegar</li>
+            <li>1 teaspoon (4 grams) baking soda </li>
+        </ul>
+    </div>
+    <div>
+        <h4>Recipe Instructions (Taken from online)</h4>
+        <ol>
+            <li>Preheat your oven to 350 degrees F (180 degrees C) and place the oven rack in the center of the oven. Butter two - 9 inch (23 cm) round cake pans and line the bottoms of the pans with parchment paper.</li>
+            <li>n a bowl, sift the flour with the salt and cocoa powder.</li>
+            <li>In the bowl of your electric stand mixer, fitted with the paddle attachment (or with a hand mixer), beat the butter until smooth. Add the sugar and beat, on medium high speed, until light and fluffy (about 3 to 4 minutes). Add the eggs, one at a time, beating well after each addition. Scrape down the sides and bottom of the bowl as needed. Add the vanilla extract and beat until combined.</li>
+            <li>In a measuring cup, carefully whisk the buttermilk with the red food coloring. With the mixer on low speed, alternately add the flour mixture (in three additions), with the buttermilk (in two additions), beginning and ending with the flour.</li>
+            <li>In a small cup combine the vinegar and baking soda. Allow the mixture to fizz and then quickly mix or fold into the cake batter. </li>
+            <li> Working quickly, divide the batter evenly between the two prepared pans (about 520 grams in each pan) and smooth the tops with an offset spatula or the back of a spoon. Bake in the preheated oven for approximately 25 minutes, or until a toothpick inserted into the center of the cakes comes out clean (the cakes will just be starting to pull away from the sides of the pans). Cool the cakes in their pans on a wire rack for 10 minutes. Then place a wire rack on top of the cake pan and invert, lifting off the pan. Remove the parchment paper and re-invert onto a oiled wire rack (this will prevent the cakes from sticking to the wire rack). Once the cakes have completely cooled, wrap in plastic, and place the cake layers in the refrigerator for a couple of hours or until firm. (This is done to make filling and frosting the cakes easier.)</li>
+
+        </ol>
+    </div>
+
+    <a href="../index.html">Return to main page</a>
+</main>
+</body>
+</html>

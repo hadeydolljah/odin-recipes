@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>VANILLA CAKE RECIPE</h1>
+    <img src='../images/vanilla cake.jpeg' alt='A diagram of a vanilla cake' style="width:600px;height:600px;">
+    <p><h3>This vanilla cake recipe has an amazing flavor, a soft, cloud-like crumb, and is so incredibly moist. Using cake flour, the reverse creaming method, lots of butter, and a touch of oil keeps this cake moist for days. </h3></p>
+    <div>
+        <h4>Ingredients</h4>
+        <ul>
+            <li>368g cake flour</li>
+            <li>368g sugar</li>
+            <li>3 large eggs</li>
+            <li>3 teaspoon baking powder</li>
+            <li>1 tablespoon vanilla extract</li>
+            <li> 4 ounces (113 g) whole milk to be mixed with the oil</li>
+            <li>1/2 teaspoon salt</li>
+            <li> 85g oil </li>
+            <li>1/4 teaspoon baking soda</li>
+            <li>227g butter</li>
+            <li>6 ounces (170 g) whole milk to be mixed with the eggs</li>
+            >
+        </ul>
+    </div>
+    <div>
+        <h4>Recipe Instructions (Taken from online)</h4>
+        <ol>
+            <li>Preheat your oven to 335ºF. I like to bake at a lower temperature because it results in a flatter cake but if your oven doesn’t have that capability, it’s still ok to bake at 350ºF. You might have a tiny dome after baking but you can just trim it off.</li>
+            <li>Place the first measurement of milk (4 oz)  into a separate measuring cup. Add in the oil and set it aside. </li>
+            <li>To the second measurement of milk, add the eggs and vanilla extract. Whisk lightly to break up the eggs. </li>
+            <li>Place your cake flour, sugar, baking soda, baking powder, and salt into the bowl of your stand mixer with the paddle attachment attached. You can also use a hand mixer.</li>
+            <li>Add in your softened butter in chunks while mixing on low. Mix everything until it looks like coarse sand. </li>
+            <li>Now add in the milk/oil mixture all at once and bump up the speed to 4 (on a KitchenAid or speed 2 on a Bosch) and mix for two full minutes to develop the cake’s structure. The batter will be light, white, and not curdled looking or broken. </li>
+            <li>Now we are going to slowly add in our egg/milk mixture while mixing on low. We are adding it slowly because we are creating an emulsion with our eggs and liquids which is how our cake gets so moist. If you add it too quickly, your liquids will separate from the butter and sink to the bottom of the cake.</li>
+            <li>Divide the batter into three, 8″x2″ pans prepared with cake goop or your preferred pan release. For added insurance, you can put parchment paper into the bottom of the pan but it’s really not needed. Fill the pans about 3/4 of the way full. I use a scale to make sure all my pans have the same amount of batter because I’m a perfectionist like that lol. </li>
+            <li>Bake your cakes for 25-30 minutes until the center is set and a toothpick comes out clean. You may need more time so do not be afraid to bake the cake for longer. </li>
+            <li>Remove the cakes from the oven and place them onto a cooling rack. Let them cool down until the pans are barely warm. Don’t let them get cold or they will stick.</li>
+
+        </ol>
+    </div>
+    
+    <a href="../index.html">Return to main page</a>
+</main>
+</body>
+</html>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>CHOCOLATE CAKE RECIPE</h1>
+    <img src='../images/chocolate.jpeg' alt='A diagram of a chocolate cake' style="width:600px;height:600px;">
+    <p><h3>This is a rich and moist chocolate cake. It only takes a few minutes to prepare the batter. Frost with your favorite chocolate frosting. </h3></p>
+    <div>
+        <h4>Ingredients</h4>
+        <ul>
+            <li>2 cups white sugar</li>
+            <li>1 ¾ cups all-purpose flour</li>
+            <li>¾ cup unsweetened cocoa powder</li>
+            <li>1 ½ teaspoons baking powder</li>
+            <li>1 ½ teaspoons baking soda</li>
+            <li>1 teaspoon salt</li>
+            <li>2 eggs</li>
+            <li> 1 cup milk </li>
+            <li>½ cup vegetable oil</li>
+            <li>2 teaspoons vanilla extract</li>
+            <li>1 cup boiling water </li>
+        </ul>
+    </div>
+    <div>
+        <h4>Recipe Instructions (Taken from online)</h4>
+        <ol>
+            <li>Preheat oven to 350 degrees F (175 degrees C). Grease and flour two nine inch round pans.</li>
+            <li>In a large bowl, stir together the sugar, flour, cocoa, baking powder, baking soda and salt. Add the eggs, milk, oil and vanilla, mix for 2 minutes on medium speed of mixer. Stir in the boiling water last. Batter will be thin. Pour evenly into the prepared pans.</li>
+            <li>Bake 30 to 35 minutes in the preheated oven, until the cake tests done with a toothpick. Cool in the pans for 10 minutes, then remove to a wire rack to cool completely.</li>
+
+        </ol>
+    </div>
+
+    <a href="../index.html">Return to main page</a>
+</main>
+</body>
+</html>
